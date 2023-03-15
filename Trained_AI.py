@@ -3,7 +3,7 @@ import json
 import time
 
 # You can obtain your LEAP_API-KEY from https://www.tryleap.ai/
-API_KEY = "fc623b03-8809-453d-927a-d2e4ecb6cc50"
+API_KEY = "add-your-API-KEY-here"
 
 # Authorization dictionary
 HEADERS = {
