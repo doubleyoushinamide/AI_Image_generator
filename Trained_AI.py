@@ -125,4 +125,4 @@ while status != "finished":
     time.sleep(10)
     inference_id, status, image = get_inference_job(model_id, inference_id)
 
-print(image)
+print(image) 
